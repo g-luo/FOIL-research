@@ -1,3 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+
 images/
 annotations/
 results/
@@ -6,7 +10,6 @@ external/
 
 MatlabAPI/analyze*/
 MatlabAPI/visualize*/
-MatlabAPI/private/maskApiMex.*
 
 PythonAPI/pycocotools/__init__.pyc
 PythonAPI/pycocotools/_mask.c
